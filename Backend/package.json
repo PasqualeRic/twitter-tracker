@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "0.0.1-security",
+    "multilang-sentiment": "^2.0.0",
+    "nodemon": "^2.0.15",
+    "nominatim-geocoder": "^0.1.4",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "socket.io": "^4.4.0",
+    "twit": "^2.2.11",
+    "util": "^0.12.4"
+  }
+}

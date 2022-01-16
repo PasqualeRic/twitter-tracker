@@ -1,0 +1,37 @@
+#trivia
+{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+#left
+{
+  padding: 3rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  text-align: center;
+}
+#erroreCreate
+{
+  color: red;
+}
+#erroreSearch
+{
+  color: red;
+}
+#right
+{
+  padding: 3rem;
+  width: 30%;
+}
+#create
+{
+}
+
+#search
+{
+  padding: 1rem;
+  border-top: 2px solid white;
+}
